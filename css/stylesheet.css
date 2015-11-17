@@ -1,0 +1,107 @@
+/* stylesheet */
+
+@import url(http://fonts.googleapis.com/css?family=Roboto+Slab);
+
+body {
+	font-family: 'Roboto Slab', 'sans-serif';
+	text-decoration: none;
+}
+
+#container {
+	border: 1.5em #95ff9a solid;
+	height: auto;
+	width: auto;
+	background-color: #5850ff;
+	margin: 0 auto;
+}
+
+.aujuslogo {
+	padding: 10em 0 0 0;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	-webkit-transition: all .5s ease;
+	-moz-transition: all .5s ease;
+	-o-transition: all .5s ease;
+	-ms-transition: all .5s ease;
+	transition: all .5s ease;
+}
+
+.aujuslogo:hover {
+	-webkit-transform:scale(1.1);
+	-moz-transform:scale(1.1);
+	-o-transform:scale(1.1);
+	-ms-transform:scale(1.1);
+	transform:scale(1.1);
+}
+
+#nav {
+	padding: 6em 0 14em 0em;
+	max-width: 400px;
+	text-align: center;
+	margin: 0 auto;
+}
+
+#nav img {
+	width: 3em;
+	height: 3em;
+	padding: 0 2em 0 2em;
+	overflow: hidden;
+}
+
+.facebook {
+	height: 3em;
+	-webkit-transition: all .5s ease;
+	-moz-transition: all .5s ease;
+	-o-transition: all .5s ease;
+	-ms-transition: all .5s ease;
+	transition: all .5s ease;
+}
+
+.facebook:hover {
+	-webkit-transform:scale(1.5);
+	-moz-transform:scale(1.5);
+	-o-transform:scale(1.5);
+	-ms-transform:scale(1.5);
+	transform:scale(1.5);
+}
+	
+.twitter {
+	height: 3em;
+	-webkit-transition: all .5s ease;
+	-moz-transition: all .5s ease;
+	-o-transition: all .5s ease;
+	-ms-transition: all .5s ease;
+	transition: all .5s ease;
+}
+
+.twitter:hover {
+	-webkit-transform:scale(1.5);
+	-moz-transform:scale(1.5);
+	-o-transform:scale(1.5);
+	-ms-transform:scale(1.5);
+	transform:scale(1.5);
+}
+
+.instagram {
+	height: 3em;
+	-webkit-transition: all .5s ease;
+	-moz-transition: all .5s ease;
+	-o-transition: all .5s ease;
+	-ms-transition: all .5s ease;
+	transition: all .5s ease;
+}
+
+.instagram:hover {
+	-webkit-transform:scale(1.5);
+	-moz-transform:scale(1.5);
+	-o-transform:scale(1.5);
+	-ms-transform:scale(1.5);
+	transform:scale(1.5);
+}
+
+footer {
+	padding-top: 1em;
+	padding-bottom: 0em;
+	margin: 0 auto;
+}
